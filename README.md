@@ -14,7 +14,7 @@ display the full text for each menu item when resolution is higher than 375*667.
 
 9 identical elements on the page, each using the image (bugs-bunny.png) as a background, displaying it as a circle. 
 
-Each object should be 200px high * 200px wide and have an animated effect when hovered. 
+Each objects are 200px wide and have an animated effect when hovered. 
 These elements should be displayed as a 3x3 grid at 1080-1920 resolution and scale down to 1x9 grid at 320-480 resolution.
 The grid must not be bigger than 3x3.
 
