@@ -1,6 +1,4 @@
 # css-test
-Here is my CSS test
-
 
 For this following test,
 
