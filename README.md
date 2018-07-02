@@ -13,7 +13,7 @@ A top sticky Menu with 4 links (who doesn't lead anywhere), in 1920-1080 resolut
 
 The menu elements are taking up the whole width of the menu, with full text displayed for each menu item when the resolution is higher than 375*667.
 
-9 identical elements on the page, each using the image (bugs-bunny.png) as a background, displayed as a circle.
+9 Identical elements on the page, each using the image (bugs-bunny.png) as a background, displayed as a circle.
 
 Each object is 200px high * 200px wide and has an animated effect when hovered.
 
