@@ -2,7 +2,9 @@
 Here is my CSS test
 
 
-For this following test, I Used SASS (scss) witch is a modular approach.
+For this following test,
+
+I Used SASS (scss) witch is a modular approach and worked with Git.
 
 I created a responsive HTML page with the following elements:
 
